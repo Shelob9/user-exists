@@ -1,6 +1,6 @@
 {
-    "name": "calderawp/user-exists",
-    "description": "A WordPress REST API route to check if email is registered",
+    "name": "wpcrowd/roy-exists",
+    "description": "A WordPress REST API route to check if Roy is a user",
     "type": "wordpress-plugin",
     "license": "GPLv2+",
     "authors": [
